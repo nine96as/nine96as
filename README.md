@@ -2,7 +2,6 @@
 <h3 align="center">A SE student with an interest in Full-Stack Web Development</h3>
 
 - 🌍  I'm based in **Milton Keynes, UK**
-- ✉️  You can contact me at [2012426@swansea.ac.uk](mailto:2012426@swansea.ac.uk)
 - 🚀  I'm currently working on [a social media blog made using Laravel](http://github.com/nine96as/forum-app)
 - 🧠  I'm learning **React, JavaScript, TypeScript**
 - 🤝  I'm open to collaborating on **anything web-dev related**
