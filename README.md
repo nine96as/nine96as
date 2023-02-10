@@ -1,7 +1,7 @@
 # Hi there, I'm Ashraf!👋
 
-<a href="http://www.github.com/nine96as"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=nine96as&show_icons=true&theme=dark#gh-dark-mode-only" alt="nine96as's GitHub stats" /></a>
-<a href="https://github.com/nine96as"><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nine96as&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" /></a>
+<img align="left" src="https://github.com/nine96as/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/nine96as/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 ## Info
 
