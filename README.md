@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ashraf!👋</h1>
 
-<a href="http://www.github.com/nine96as"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=nine96as&show_icons=true&theme=dark#gh-dark-mode-only" alt="nine96as's GitHub stats" /></a>
+<a href="http://www.github.com/nine96as"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nine96as&show_icons=true&theme=dark#gh-dark-mode-only" alt="nine96as's GitHub stats" /></a>
 
 <a href="https://github.com/nine96as" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nine96as&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" /></a><br>
 
