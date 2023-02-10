@@ -1,5 +1,9 @@
-<h1 align="center">Hi, my name is Ashraf</h1>
-<h3 align="center">A SE student with an interest in Full-Stack Web Development</h3>
+<h1>Hi there, I'm Ashraf!👋</h1>
+<h3>A SE student with an interest in Full-Stack Web Development</h3>
+
+<a href="http://www.github.com/nine96as"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nine96as&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nine96as's GitHub stats" /></a>
+
+<a href="https://github.com/nine96as" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nine96as&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br>
 
 - 🌍  I'm based in **Milton Keynes, UK**
 - 🚀  I'm currently working on **[a TypeScript discord bot](http://github.com/nine96as/baloo-bot-final)**
@@ -14,16 +18,6 @@
 ### Socials:
 
 <p align="left"> <a href="https://discord.com/users/nine96#3681" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/nine96as" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nine96/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nine96as" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges:
-
-<b>My GitHub Stats:</b>
-
-<a href="http://www.github.com/nine96as"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nine96as&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nine96as's GitHub stats" /></a>
-
-<a href="https://github.com/nine96as" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nine96as&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/nine96as"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nine96as&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me:
 
