@@ -7,7 +7,7 @@
 
 - 🌍  I'm based in **Milton Keynes, UK**
 - 🚀  I'm currently working on **[a TypeScript discord bot](http://github.com/nine96as/baloo-bot-final)**
-- 🧠  I'm learning **React, JavaScript, TypeScript**
+- 🧠  I'm learning **Kotlin, React, JavaScript, TypeScript**
 - 🤝  I'm open to collaborating on **anything web-dev related**
 
 ## Languages + Tools
